@@ -1,9 +1,5 @@
 package cn.edu.zzuli;
 
-import cn.edu.zzuli.domain.Employ;
-import cn.edu.zzuli.domain.Owner;
-import cn.edu.zzuli.domain.Pet;
-import cn.edu.zzuli.domain.Type;
 import cn.edu.zzuli.jpa.EmployJPA;
 import cn.edu.zzuli.jpa.OwnerJPA;
 import cn.edu.zzuli.jpa.PetJPA;
@@ -12,9 +8,6 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-
-import java.util.ArrayList;
-import java.util.Date;
 
 /**
  * @author 程佩

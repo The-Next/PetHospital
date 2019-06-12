@@ -1,7 +1,6 @@
 package cn.edu.zzuli.controller;
 
-import cn.edu.zzuli.domain.Owner;
-import cn.edu.zzuli.domain.Type;
+import cn.edu.zzuli.entity.Type;
 import cn.edu.zzuli.service.TypeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

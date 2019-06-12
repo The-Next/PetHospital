@@ -1,4 +1,4 @@
-package cn.edu.zzuli.domain;
+package cn.edu.zzuli.entity;
 import javax.persistence.*;
 import java.io.Serializable;
 /**

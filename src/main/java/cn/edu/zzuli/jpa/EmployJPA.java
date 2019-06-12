@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Employ;
+import cn.edu.zzuli.entity.Employ;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

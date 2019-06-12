@@ -1,6 +1,6 @@
 package cn.edu.zzuli.service;
 
-import cn.edu.zzuli.domain.Type;
+import cn.edu.zzuli.entity.Type;
 
 import java.util.ArrayList;
 

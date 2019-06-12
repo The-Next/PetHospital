@@ -1,6 +1,6 @@
 package cn.edu.zzuli.controller;
 
-import cn.edu.zzuli.domain.Employ;
+import cn.edu.zzuli.entity.Employ;
 import cn.edu.zzuli.service.EmployService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -38,7 +38,6 @@ public class EmployController {
         }
         return new ResponseEntity<Map<String, Object>>(map, HttpStatus.OK);
     }
-
     /**
     *@Author:程佩
     *@Description:注册账号
@@ -59,5 +58,4 @@ public class EmployController {
         }
         return new ResponseEntity<Map<String, Object>>(map, HttpStatus.OK);
     }
-
 }

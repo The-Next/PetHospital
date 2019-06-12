@@ -1,7 +1,6 @@
-package cn.edu.zzuli.domain;
+package cn.edu.zzuli.entity;
 
 import javax.persistence.*;
-import java.util.List;
 
 /**
  * @author 程佩

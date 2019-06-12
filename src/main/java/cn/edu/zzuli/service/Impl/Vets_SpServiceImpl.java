@@ -1,8 +1,8 @@
 package cn.edu.zzuli.service.Impl;
 
-import cn.edu.zzuli.domain.SPSet;
-import cn.edu.zzuli.domain.Specialties;
-import cn.edu.zzuli.domain.Vets;
+import cn.edu.zzuli.entity.SPSet;
+import cn.edu.zzuli.entity.Specialties;
+import cn.edu.zzuli.entity.Vets;
 import cn.edu.zzuli.jpa.SpecialtiesJPA;
 import cn.edu.zzuli.jpa.VetsJPA;
 import cn.edu.zzuli.service.Vets_SpService;

@@ -1,6 +1,6 @@
 package cn.edu.zzuli.service.Impl;
 
-import cn.edu.zzuli.domain.Visits;
+import cn.edu.zzuli.entity.Visits;
 import cn.edu.zzuli.jpa.VisitsJPA;
 import cn.edu.zzuli.service.VisitsService;
 import org.springframework.beans.factory.annotation.Autowired;

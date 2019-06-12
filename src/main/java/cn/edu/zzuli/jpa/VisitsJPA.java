@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Visits;
+import cn.edu.zzuli.entity.Visits;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

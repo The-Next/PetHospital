@@ -1,6 +1,6 @@
 package cn.edu.zzuli.service.Impl;
 
-import cn.edu.zzuli.domain.Type;
+import cn.edu.zzuli.entity.Type;
 import cn.edu.zzuli.jpa.TypeJPA;
 import cn.edu.zzuli.service.TypeService;
 import org.springframework.beans.factory.annotation.Autowired;

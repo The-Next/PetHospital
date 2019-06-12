@@ -1,15 +1,12 @@
 package cn.edu.zzuli.controller;
 
-import cn.edu.zzuli.domain.Type;
-import cn.edu.zzuli.domain.Visits;
-import cn.edu.zzuli.jpa.VisitsJPA;
+import cn.edu.zzuli.entity.Visits;
 import cn.edu.zzuli.service.VisitsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.persistence.criteria.CriteriaBuilder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

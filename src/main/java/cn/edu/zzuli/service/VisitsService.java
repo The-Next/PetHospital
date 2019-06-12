@@ -1,6 +1,6 @@
 package cn.edu.zzuli.service;
 
-import cn.edu.zzuli.domain.Visits;
+import cn.edu.zzuli.entity.Visits;
 
 import java.util.ArrayList;
 import java.util.Optional;

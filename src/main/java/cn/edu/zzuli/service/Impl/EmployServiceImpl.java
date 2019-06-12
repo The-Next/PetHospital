@@ -1,10 +1,9 @@
 package cn.edu.zzuli.service.Impl;
 
-import cn.edu.zzuli.domain.Employ;
+import cn.edu.zzuli.entity.Employ;
 import cn.edu.zzuli.jpa.EmployJPA;
 import cn.edu.zzuli.service.EmployService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Example;
 import org.springframework.stereotype.Service;
 
 /**

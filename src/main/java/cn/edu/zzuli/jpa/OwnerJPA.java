@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Owner;
+import cn.edu.zzuli.entity.Owner;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

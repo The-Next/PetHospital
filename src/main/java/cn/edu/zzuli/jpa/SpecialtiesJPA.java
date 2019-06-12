@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Specialties;
+import cn.edu.zzuli.entity.Specialties;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.ArrayList;

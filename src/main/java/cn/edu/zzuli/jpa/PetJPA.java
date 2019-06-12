@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Pet;
+import cn.edu.zzuli.entity.Pet;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

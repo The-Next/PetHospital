@@ -1,7 +1,6 @@
 package cn.edu.zzuli.service;
 
-import cn.edu.zzuli.domain.Employ;
-import cn.edu.zzuli.jpa.EmployJPA;
+import cn.edu.zzuli.entity.Employ;
 
 /**
  * @author 程佩

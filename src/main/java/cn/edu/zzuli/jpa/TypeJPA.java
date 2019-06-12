@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Type;
+import cn.edu.zzuli.entity.Type;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

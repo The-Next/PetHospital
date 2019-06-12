@@ -1,12 +1,11 @@
 package cn.edu.zzuli.service.Impl;
 
-import cn.edu.zzuli.domain.Pet;
+import cn.edu.zzuli.entity.Pet;
 import cn.edu.zzuli.jpa.PetJPA;
 import cn.edu.zzuli.service.PetService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
 import java.util.ArrayList;
 import java.util.Optional;
 

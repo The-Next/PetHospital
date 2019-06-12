@@ -1,8 +1,8 @@
 package cn.edu.zzuli.service;
 
-import cn.edu.zzuli.domain.SPSet;
-import cn.edu.zzuli.domain.Specialties;
-import cn.edu.zzuli.domain.Vets;
+import cn.edu.zzuli.entity.SPSet;
+import cn.edu.zzuli.entity.Specialties;
+import cn.edu.zzuli.entity.Vets;
 
 import java.util.ArrayList;
 import java.util.Optional;

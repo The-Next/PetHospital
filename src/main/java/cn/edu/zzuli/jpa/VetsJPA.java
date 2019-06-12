@@ -1,6 +1,6 @@
 package cn.edu.zzuli.jpa;
 
-import cn.edu.zzuli.domain.Vets;
+import cn.edu.zzuli.entity.Vets;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 package cn.edu.zzuli.service;
 
-import cn.edu.zzuli.domain.Owner;
+import cn.edu.zzuli.entity.Owner;
 
 import java.util.ArrayList;
 import java.util.Optional;
